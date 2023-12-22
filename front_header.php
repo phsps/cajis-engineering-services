@@ -14,7 +14,8 @@
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
     <link rel="shortcut icon" href="assets/images/CAJIS-favicon.png" type="image/x-icon">
     <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->
-     <link rel="stylesheet" href="./assets/css/style.css">
+     <link rel="stylesheet" href="./assets/css/front_header.css">
+
 </head>
 <body>
 

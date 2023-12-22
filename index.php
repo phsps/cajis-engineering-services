@@ -1,4 +1,5 @@
 <?php include_once 'front_header.php'; ?>
+
 <style>
   .experience-content-2 ul li {
     /* width: 200px; */
@@ -41,6 +42,8 @@
     transform: translateX(15%);
 }
 </style>
+
+<link rel="stylesheet" href="./assets/css/style.css">
     <!-----End Navigation------>
 
     <!-----Hero Section------>
