@@ -1,4 +1,4 @@
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,6 +15,26 @@
     <link rel="shortcut icon" href="assets/images/CAJIS-favicon.png" type="image/x-icon">
     <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->
      <link rel="stylesheet" href="./assets/css/style.css">
+     <style>
+        .drop-down{
+            position: relative;
+            display: block;
+        }
+        .drop-down-content{
+            border: 1px solid black;
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            padding: 12px 16px;
+            z-index: 1;
+        }
+
+        .drop-down:hover .drop-down-content{
+            display: block;
+        }
+     </style>
 </head>
 <body>
 
@@ -24,7 +44,6 @@
         <nav class="nav container">
             <a href="./" class="nav_logo">
                 <img src="assets/images/CAJIS-ICON.png" alt="">
-                <span>Cajis</span>
             </a>
 
             <div class="nav_menu" id="nav-menu">
@@ -33,8 +52,12 @@
                         <a href="./" class="nav_link">Home</a>
                     </li>
 
-                    <li class="nav_item">
+                    <li class="nav_item drop-down">
                         <a href="about_us" class="nav_link">About</a>
+                        <!-- <ul class="drop-down-content">
+                            <li><a href="">Company Overview</a></li>
+                            <li><a href="">Company Objectives</a></li>
+                        </ul> -->
                     </li>
 
                     <li class="nav_item">

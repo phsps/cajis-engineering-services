@@ -9,7 +9,6 @@
 
 
 :root {
-    --header-height: 3rem ;
     --first-color-lighter: #ECF3F2;
 
     --z-tooltip: 10;
@@ -22,7 +21,6 @@ html {
 }
 
 body {
-    --header-height: 3.5rem;
     --cl--1--:#ffffff;
     --cl--2--:#2f333e;
     --cl--3--:#580b00;
@@ -134,7 +132,7 @@ ul li a {
 
 .nav {
     position: relative;
-    height: var(--header-height);
+    height: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -151,8 +149,19 @@ ul li a {
 .nav_logo {
     /* column-gap: .5rem; */
     width: 100px;
+    position: relative;
 }
 
+.nav_logo img{
+    height: 100px;
+    width: 100px;
+}
+
+
+.nav_logo > span{
+    position: absolute;
+    right: -10px;
+}
 
 .nav_toggle,
 .nav_close {
@@ -963,7 +972,7 @@ h4 {font-size: 1em} */
     margin-bottom: 30px;
     opacity: 0;
     transform: translateX(10%);
-    transition: transform 1s opacity 1s;
+    transition: transform 2s opacity 2s;
 }
 
 .testi .swiper-slide-active .aside > p {
@@ -1004,7 +1013,7 @@ h4 {font-size: 1em} */
     line-height: 1;
     opacity: 0;
     transform: translateX(30px);
-    transition: transform 1s .2s, opacity 1s .3s;
+    transition: transform 2s .3s, opacity 2s .4s;
 }
 
 .testi .swiper-slide-active .name {
@@ -1704,10 +1713,6 @@ footer {
 }
 
 @media screen and (min-width: 915px) {
-    .nav {
-        height: calc(var(--header-height) + 2.5rem);
-    }
-
     .nav_list {
         display: flex;
         justify-content: space-between;

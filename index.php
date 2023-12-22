@@ -1,5 +1,46 @@
 <?php include_once 'front_header.php'; ?>
-
+<style>
+  .experience-content-2 ul li {
+    /* width: 200px; */
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin: 1.5em;
+    cursor: pointer;
+    padding: 1em;
+    background: #580b00;
+    position: relative;
+    color: white;
+    border-radius: 5px;
+}
+.experience-content-2 ul li::before,
+.experience-content-2 ul li::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    border-radius: 5px;
+    width: 105%;
+    transition: all 0.4s;
+}
+.experience-content-2 ul li::before {
+    left: 0%;
+    height: 130%;
+    background: linear-gradient(to right, #c7c53d, #580b00);
+}
+.experience-content-2 ul li::after {
+    left: -10%;
+    height: 120%;
+    background: #ffffff56;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.164);
+}
+.experience-content-2 ul li:hover::before {
+    transform: translateX(-2.5%);
+}
+.experience-content-2 ul li:hover::after {
+    transform: translateX(15%);
+}
+</style>
     <!-----End Navigation------>
 
     <!-----Hero Section------>
@@ -71,7 +112,7 @@
 
             <div class="swiper-slide">
               <div class="container row cajis2">
-                  <h1>ECKO DREDGING</h1>
+                  <h1>EKCO DREDGING</h1>
                   <div class="row">
                       <!-- <div>
                           <h3>Feature Projects</h3>
@@ -109,8 +150,18 @@
 
         <div class="experience-content-2">
             <h1 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">What We Do</h1>
-            <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">We understand the behavior of road materials in relation to expected loads and deterioration mechanisms. We provide a comprehensive range of professional construction services across the globe.</p>
-            <a href="about.html" class="page-btn-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Read More</a>
+            <ul>
+              <li>Dredging, Sales and Supply of Sand.</li>
+              <li>Marine Logistics.</li>
+              <li>Training and Development.</li>
+              <li>Building Construction and Maintenance.</li>
+              <li>Erosion Control Works.</li>
+              <li>Industrial and General Structural Works.</li>
+              <li>Water Resource Works.</li>
+              <li>Heavy and Light Weight Construction.</li>
+            </ul> 
+           
+            <a href="about_us" class="page-btn-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Read More</a>
         </div>
        </section>
         <!-----End Experience------>
@@ -167,7 +218,7 @@
                   <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-arrow-right-short"></i> Innovation and creativity</li>
                   <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-arrow-right-short"></i> Fine engineering only with us</li>
                  </ul>     
-            <a href="about.html" class="page-btn-2" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Read More</a>
+            <a href="about_us" class="page-btn-2" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Read More</a>
         </div>
 
         <div class="experience-img row">
@@ -176,6 +227,142 @@
        </section>
         <!-----End Experience------>
 
+        <section class="site" id="page">
+          <div class="container">
+              <div class="testi">
+                  <div class="head">
+                      <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Cajis Engineering Services</h2>
+                      <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">A Reliable and Quality-driven firm</p>
+                  </div>
+  
+                  <div class="body swiper">
+                      <ul class="swiper-wrapper">
+                          <li class="swiper-slide" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We encourage and foster a culture of innovation and creativity. We embrace new ideas, technologies, and approaches to problem-solving to drive continuous improvement and advancement.</p>
+                                      <div class="name">
+                                      <h4>Innovation and Creativity</h4>
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+  
+                          <li class="swiper-slide" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We strive for excellence in everything we do. WecCommit to delivering high-quality products, services, and solutions that meet or exceed customer expectations and industry standards.</p>
+                                      <div class="name">
+                                        <h4>Excellence and Quality</h4>
+                                        
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+  
+                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1500">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We uphold the highest ethical standards in all our actions and decisions. We act with honesty, transparency, and integrity, maintaining trust with clients, partners, employees, and the community.</p>
+                                      <div class="name">
+                                        <h4>Integrity and Ethics</h4>
+                                        
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+  
+                           <li class="swiper-slide">
+                              <div class="wrapper">
+                                  
+                                  <div class="aside">
+                                      <p>We foster a collaborative and inclusive environment where teamwork, mutual respect, and diverse perspectives are valued. Encourage open communication and knowledge sharing among teams to achieve common goals.</p>
+                                      <div class="name">
+                                          <h4>Collaboration and Teamwork</h4>
+                                          
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+
+                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1500">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We put customers at the center of our operations; listen to their needs, understand their challenges, and provide solutions that add value and contribute to their success.</p>
+                                      <div class="name">
+                                        <h4>Customer-Centric Focus</h4>
+                                        
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+
+                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1500">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We embrace a culture of continuous learning and professional development. We encourage our employees to expand their skills, knowledge, and expertise to stay at the forefront of the industry.</p>
+                                      <div class="name">
+                                        <h4>Continuous Learning and Development</h4>
+                                        
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+
+                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1500">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We prioritize the health, safety, and well-being of employees, clients, and the community. We commit to sustainable practices that minimize environmental impact and promote a healthier future.</p>
+                                      <div class="name">
+                                        <h4>Safety and Sustainability</h4>
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+
+                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1500">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We take ownership of our actions and outcomes. Hold ourselves accountable for our commitments, and take responsibility for achieving results in a reliable and transparent manner.</p>
+                                      <div class="name">
+                                        <h4>Accountability and Responsibility</h4>
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+
+                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1500">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We embrace change and adaptability in a fast-paced and dynamic industry. Remain flexible and agile to respond quickly to evolving technologies, market demands, and customer needs.</p>
+                                      <div class="name">
+                                        <h4>Adaptability and Flexibility</h4>
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+
+                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1500">
+                              <div class="wrapper">
+                                  <div class="aside">
+                                      <p>We empower individuals to take initiative, make decisions, and contribute meaningfully to the society. We respect and value each individual's contributions, skills, and perspectives.</p>
+                                      <div class="name">
+                                        <h4>Empowerment and Respect</h4>
+                                      </div>
+                                  </div>
+                              </div>
+                          </li>
+                      </ul>
+  
+                      <!-- <div class="swiper-pagination"></div> -->
+  
+                      <!-- If we need navigation buttons -->
+                      <!-- <div class="swiper-button-prev"></div> -->
+                      <!-- <div class="swiper-button-next"></div> -->
+                  </div>
+              </div>
+          </div>
+         </section>
      <!-----Services------>
      <section class="service" id="service">
         <div class="container">

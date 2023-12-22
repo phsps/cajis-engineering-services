@@ -133,10 +133,20 @@ ul li a {
 
 .nav {
     position: relative;
-    height: var(--header-height);
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.nav_logo img{
+    height: 100px;
+    width: 100px;
+}
+
+
+.nav_logo > span{
+    position: absolute;
+    right: -10px;
 }
 
 .nav_logo,
@@ -150,6 +160,7 @@ ul li a {
 .nav_logo {
     /* column-gap: .5rem; */
     width: 80px;
+    position: relative;
 }
 
 
