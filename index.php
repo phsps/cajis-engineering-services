@@ -52,24 +52,18 @@
                 <div class="swiper-slide">
                     <div class="container row cajis1">
                       <!-- <img src="assets/images/CAJIS-ICON.png" alt=""> -->
-                        <h1>CAJIS ENGINEERING SERVICES</h1>
+                        <h1>CAJIS Engineerng Services</h1>
                         <div class="row">
-                            <!-- <div>
-                                <h3>Feature Projects</h3>
-                                <p>The National University Of Architecture</p>
-                            </div> -->
+                           
                         </div>
                     </div>
                 </div>
 
                 <div class="swiper-slide">
                     <div class="container row cajis2">
-                        <h1>CONSTRUCTION</h1>
+                        <h1>Construction</h1>
                         <div class="row">
-                            <!-- <div>
-                                <h3>Feature Projects</h3>
-                                <p>The National University Of Architecture</p>
-                            </div> -->
+                            
                         </div>
                     </div>
                 </div>
@@ -78,36 +72,27 @@
 
                 <div class="swiper-slide">
                     <div class="container row cajis2">
-                        <h1>RENOVATION & REPAIR</h1>
+                        <h1>Renovation & Repair</h1>
                         <div class="row">
-                            <!-- <div>
-                                <h3>Feature Projects</h3>
-                                <p>The National University Of Architecture</p>
-                            </div> -->
+                           
                         </div>
                     </div>
                 </div>
 
                 <div class="swiper-slide">
                   <div class="container row cajis2">
-                      <h1>INSTALLATION</h1>
+                      <h1>Installation</h1>
                       <div class="row">
-                          <!-- <div>
-                              <h3>Feature Projects</h3>
-                              <p>The National University Of Architecture</p>
-                          </div> -->
+                         
                       </div>
                   </div>
               </div>
 
               <div class="swiper-slide">
                 <div class="container row cajis2">
-                    <h1>ARCHITECTURE</h1>
+                    <h1>Architecture</h1>
                     <div class="row">
-                        <!-- <div>
-                            <h3>Feature Projects</h3>
-                            <p>The National University Of Architecture</p>
-                        </div> -->
+                        
                     </div>
                 </div>
             </div>
@@ -127,12 +112,9 @@
 
           <div class="swiper-slide">
             <div class="container row cajis2">
-                <h1>BLUT LOGISTICS</h1>
+                <h1>Marine Logistics</h1>
                 <div class="row">
-                    <!-- <div>
-                        <h3>Feature Projects</h3>
-                        <p>The National University Of Architecture</p>
-                    </div> -->
+                   
                 </div>
             </div>
         </div>

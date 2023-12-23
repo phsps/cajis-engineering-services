@@ -56,7 +56,7 @@
               <div class="underline"><span></span></div>
             </h3>
             <ul>
-                <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><a href="services.html">Our Services</a></li>
+                <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><a href="./our_services">Our Services</a></li>
                 <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="#">Privacy Policy</a></li>
                 <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="#">Faqs</a></li>
               </ul>
@@ -68,7 +68,7 @@
        
       
             <p class="phsps">
-                &copy; <?php date('Y');?> CAJIS - By <a href="https://phsps.com">Phsps Apps</a>
+                &copy; <?= date('Y');?> CAJIS Engineering Services - By <a href="https://phsps.com">Phsps Apps</a>
               </p>
 
       </footer>

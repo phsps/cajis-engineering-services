@@ -89,9 +89,9 @@
         </div>
 
         <div class="contact-icons">
-            <a href="" data-aos="zoom-in-left" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-facebook f-book"></i></a>
-            <a href="" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-instagram insta"></i></a>
-            <a href="" data-aos="zoom-in-right" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-twitter twit"></i></a>
+            <!-- <a href="" data-aos="zoom-in-left" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-facebook f-book"></i></a> -->
+            <a href="https://instagram.com/cajisengineering" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-instagram insta"></i></a>
+            <a href="https://twitter.com/cajisEngineers" data-aos="zoom-in-right" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-twitter twit"></i></a>
         </div>
     </div>
     </section>
