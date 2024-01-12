@@ -3,7 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CAJIS | Constructon | Engineering</title>
+    <title>CAJIS | Engineering | Services | Limited</title>
+
+    <meta name="description" content="CAJIS Engineering Services Limited">
+    <meta name="keywords" content="PHSPS, CAJIS, Engineer, Engineering, Dredging, Logistics, Nigeria, West Africa,Lagos, Abuja, Africa, Terminal, Road, Enugu, Construction">
+    <meta name="author" content="CAJIS Engineering Services Limited, PHSPS Apps, Jetty Construction, Terminal Construction, Road Construction, Water Works">
+    <meta property="og:site_name" content="CAJIS Engineering Services">
+    <meta property="og:site" content="https://cajisengineeringservices.com">
+    <meta property="og:title" content="CAJIS Engineering Services">
+    <meta property="og:description" content="Best Engineering Services Around You">
+    <meta property="og:image" content="./assets/images/CAJIS-ICON.png"> <!-- Link to file where it's JPG -->
+    <meta property="og:url" content="https://cajisengineeringservices.com">
+
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js" defer></script>
       <!-- <script src="https://unpkg.com/swiper/swiper-bundle.min.js" defer></script> -->
       <script src="assets/js/script.js" defer></script>

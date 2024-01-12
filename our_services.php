@@ -1,4 +1,7 @@
-<?php include_once 'front_header.php'; ?>
+<?php include_once 'front_header.php';
+        include_once './services_writeup.php';
+?>
+
 <link rel="stylesheet" href="assets/css/services.css">
 
 <!-- content -->
@@ -30,55 +33,17 @@
         
         <div class="reputation-cards column">
 
-            <div class="r-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
-                <h2>01</h2>
-                <h3>Construction</h3>
-                <p>We are expert in Road construction, Terminal and Jetty constructions and Building constructions.</p>
-                <a href="details.html">Details</a>
-            </div>
-
-            <div class="r-card" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">
-                <h2>02</h2>
-                <h3>Renovation</h3>
-                <p>In many cases, it is better to renovate rather than relocate. We renovate to give satisfaction. Try us out today</p>
-                <a href="details.html">Details</a>
-            </div>
-
-            <div class="r-card" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
-                <h2>03</h2>
-                <h3>Consultation</h3>
-                <p>Business consultants serve as professional advisors to help companies achieve their goals or streamline operations in a particular area of the business, such as sales, IT, finance, marketing, supply chain management, HR, operations, engineering, and security.</p>
-                <a href="details.html">Details</a>
-            </div>
-
-            <div class="r-card" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
-                <h2>04</h2>
-                <h3>Repair Services</h3>
-                <p>Road maintenance is work that takes place on various roads. These roads could be motorways or smaller, backroad paths. This work is undertaken to ensure that these roads – whatever kind of road they are - remain strong, safe and efficient.</p>
-                <a href="details.html">Details</a>
-            </div>
-
-            <div class="r-card" data-aos="zoom-out" data-aos-delay="100" data-aos-duration="1000">
-                <h2>05</h2>
-                <h3>Architecture</h3>
-                <p>Architecture is the art and technique of designing and building, as distinguished from the skills associated with construction.[3] It is both the process and the product of sketching, conceiving,[4] planning, designing, and constructing buildings or other structures.[</p>
-                <a href="details.html">Details</a>
-            </div>
+        <?php for($i = 1; $i < count($servicesList); $i++ ):?>
 
             <div class="r-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
-                <h2>06</h2>
-                <h3>Dredging</h3>
-                <p>Dredging, sales and supply of sand to any part of Lagos and beyond is our duty and we do it efficiently and professionally.</p>
-                <a href="ekco_dredging">Details</a>
+                <h2>0<?=$i?></h2>
+                <h3><?=$servicesList["0".$i]['name']?></h3>
+                <p><?=substr($servicesList["0".$i]['text'], 0, 200).' ...';?></p>
+                <a href="particular_service?key=<?="0".$i;?>">Details</a>
+                <a href="<?=$servicesList["0".$i]['page']?>">Details</a>
             </div>
 
-            <div class="r-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
-                <h2>07</h2>
-                <h3>Marine Logistics</h3>
-                <p>At Blut Logistics, our team is committed to ensuring the smooth and efficient movement of goods from your location to your destination.</p>
-                <a href="blut_logistics">Details</a>
-            </div>
-
+        <?php endfor;?>
         </div>
     </section>
 
