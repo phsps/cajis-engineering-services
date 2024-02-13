@@ -136,17 +136,17 @@
         <div class="experience-content-2">
             <h1 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">What We Do</h1>
             <ul>
-              <li>Dredging, Sales and Supply of Sand.</li>
-              <li>Marine Logistics.</li>
-              <li>Training and Development.</li>
-              <li>Building Construction and Maintenance.</li>
-              <li>Erosion Control Works.</li>
-              <li>Industrial and General Structural Works.</li>
-              <li>Water Resource Works.</li>
-              <li>Heavy and Light Weight Construction.</li>
+              <li><a href="ekco_dredging"> Sales and Supply of Sand.</a></li>
+              <li><a href="blut_logistics"> Marine Logistics.</a></li>
+              <li><a href="./particular_service?key=01"> Training and Development.</a></li>
+              <li><a href="particular_service?key=02">Building Construction and Maintenance.</a></li>
+              <li><a href="./particular_service?key=04">Erosion Control Works.</a></li>
+              <li><a href="particular_service?key=05">Industrial and General Structural Works.</a></li>
+              <li><a href="particular_service?key=08">Water Resource Works.</a></li>
+              <li><a href="particular_service?key=09">Heavy and Light Weight Construction.</a></li>
             </ul> 
            
-            <a href="about_us" class="page-btn-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Read More</a>
+            <a href="./our_services" class="page-btn-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Our Services</a>
         </div>
        </section>
         <!-----End Experience------>
@@ -196,7 +196,7 @@
   
         <div class="experience-content-2">
             <h1 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Why Choose Us</h1>
-            <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">This involves the building and maintaining storm drains, creation of a physical barrier, to absorb some of the energy of the wind or water. We analyse, design and achieve design goals whilst ensuring the safety and comfort of users and occupants.</p>
+            <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">We analyse, design and achieve design goals whilst ensuring the safety and comfort of users and occupants.</p>
               <ul>
                   <li data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-arrow-right-short"></i> Making lives easier</li>
                   <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-arrow-right-short"></i> Get every solution right here</li>
@@ -353,46 +353,46 @@
         <div class="container">
             <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Services</h2>
             <div class="service-cards column">
-                <a href="details.html" class="s-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
+                <a href="./our_services" class="s-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
                     <div class="icon">
                         <ion-icon name="construct-outline"></ion-icon>
                     </div>
                     <h4>Construction</h4>
                 </a>
 
-                <a href="details.html" class="s-card" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">
+                <a href="./our_services" class="s-card" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">
                     <div class="icon">
                         <ion-icon name="git-pull-request-outline"></ion-icon>
                     </div>
                     <h4>Renovation</h4>
                 </a>
 
-                <a href="details.html" class="s-card" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
+                <a href="./our_services" class="s-card" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
                     <div class="icon">
                       <i class="bi bi-hand-thumbs-up"></i>
                     </div>
                     <h4>Consultation</h4>
                 </a>
 
-                <a href="details.html" class="s-card" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
+                <a href="./our_services" class="s-card" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
                     <div class="icon">
                       <i class="bi bi-gear-wide-connected"></i>
                     </div>
                     <h4>Repair Services</h4>
                 </a>
 
-                <a href="details.html" class="s-card" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                <a href="./our_services" class="s-card" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                     <div class="icon">
                       <i class="bi bi-pencil"></i>
                     </div>
                     <h4>Architecture</h4>
                 </a>
 
-                <a href="details.html" class="s-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
+                <a href="./our_services" class="s-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
                     <div class="icon">
                       <i class="bi bi-battery-charging"></i>
                     </div>
-                    <h4>Electric</h4>
+                    <h4>Electrical</h4>
                 </a>
 
                 
@@ -430,8 +430,8 @@
 
         <div class="experience-content">
             <h1 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">13 years experience</h1>
-            <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">Our company has been the leading provided construction services to clients throughout Nigeria since 2010</p>
-            <a href="contact.html" class="page-btn-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Contact Us</a>
+            <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">Our company has been leading, providing construction services to clients throughout Nigeria and beyond since 2010</p>
+            <a href="contact_us" class="page-btn-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Contact Us</a>
         </div>
        </section>
         <!-----End Experience------>
@@ -473,7 +473,7 @@
                     <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Free Consultation with exceptional quality.</h2>
                     <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Just one call away: <a href="tel:+234 803 749 2692">+234 803 749 2692</a></p>
                 </div>
-                <a href="contact.html" class="page-btn-2 active" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-whatsapp"></i> Consult Us</a>
+                <a href="contact_us" class="page-btn-2 active" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-whatsapp"></i> Consult Us</a>
             </div>
          </section>
          <!-----End Subscribe------>
@@ -609,7 +609,7 @@
                   </div>
 
                  <center>
-                  <a href="project.html" class="page-btn-2 view" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">View All</a>
+                  <a href="our_projects" class="page-btn-2 view" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">View All</a>
                  </center>
                 </div>
               </div>

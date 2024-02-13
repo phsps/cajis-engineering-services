@@ -33,14 +33,14 @@
         
         <div class="reputation-cards column">
 
-        <?php for($i = 1; $i < count($servicesList); $i++ ):?>
+        <?php for($i = 1; $i < count($servicesList)+1; $i++ ):?>
 
             <div class="r-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
                 <h2>0<?=$i?></h2>
-                <h3><?=$servicesList["0".$i]['name']?></h3>
+                <h3><?=$servicesList["0".$i]['heading']?></h3>
                 <p><?=substr($servicesList["0".$i]['text'], 0, 200).' ...';?></p>
                 <a href="particular_service?key=<?="0".$i;?>">Details</a>
-                <a href="<?=$servicesList["0".$i]['page']?>">Details</a>
+                <!-- <a href="<?=$servicesList["0".$i]['page']?>">Details</a> -->
             </div>
 
         <?php endfor;?>
@@ -78,7 +78,7 @@
                           professionals at work 
                         </p>
                         
-                         <a href="contact.html" class="page-btn-2" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Contact Us</a>
+                         <a href="contact_us" class="page-btn-2" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Contact Us</a>
                      </div>
     
     
@@ -126,20 +126,20 @@
 
                  <div class="experience-rating3 column">
                     <div class="rate2">
-                        <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">90%</h2>
-                        <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">INDUSTRY</p>
+                        <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">100%</h2>
+                        <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">Efficiency</p>
                     </div>
                     <div class="rate2">
-                        <h2 data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">96%</h2>
-                        <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">ENGINEERING</p>
+                        <h2 data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">100%</h2>
+                        <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">Reliability</p>
                     </div>
                     <div class="rate2">
-                        <h2 data-aos="zoom-out" data-aos-delay="100" data-aos-duration="1000">89%</h2>
-                        <p data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">FACTORY</p>
+                        <h2 data-aos="zoom-out" data-aos-delay="100" data-aos-duration="1000">100%</h2>
+                        <p data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Time Management</p>
                     </div>
                     <div class="rate2">
                         <h2 data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">99%</h2>
-                        <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">CONSTRUCTION</p>
+                        <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Customer Satisfaction</p>
                     </div>
                  </div>
              </div>

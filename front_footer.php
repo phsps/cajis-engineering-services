@@ -18,11 +18,12 @@
               <div class="underline"><span></span></div>
             </h3>
             <ul>
-              <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><a href="about_us">About</a></li>
-              <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="our_projects">Projects.</a></li>
-              <li data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000"><a href="our_services">Services</a></li>
+              <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><a href="about_us">About Us</a></li>
+              <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="our_projects">Projects</a></li>
+              <li data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000"><a href="our_services">Our Services</a></li>
               <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="ekco_dredging">EKCO Dredging</a></li>
               <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="blut_logistics">Blut Logistics</a></li>
+              <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="particular_service?key=02">Building Constuction & Maintenance</a></li>
             </ul>
           </div>
           <div class="col">
@@ -56,9 +57,12 @@
               <div class="underline"><span></span></div>
             </h3>
             <ul>
-                <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><a href="./our_services">Our Services</a></li>
-                <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="#">Privacy Policy</a></li>
-                <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="#">Faqs</a></li>
+                <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><a href="./our_services">All Services</a></li>
+                <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="./particular_service?key=03">Road Construction and Maintenance</a></li>
+                <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="./particular_service?key=04">Erosion Control Works</a></li>
+                <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="./particular_service?key=05">Industrial and General Structural Works</a></li>
+                <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="./particular_service?key=08">Water Resource Works</a></li>
+                <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="./particular_service?key=09">Heavy & Light Weight Construction</a></li>
               </ul>
           
         </div>
