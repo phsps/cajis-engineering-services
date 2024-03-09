@@ -136,8 +136,9 @@
         <div class="experience-content-2">
             <h1 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">What We Do</h1>
             <ul>
-              <li><a href="ekco_dredging"> Sales and Supply of Sand.</a></li>
-              <li><a href="blut_logistics"> Marine Logistics.</a></li>
+              
+              <li><a href="./particular_service?key=07"> Marine Logistics.</a></li>
+              <li><a href="./particular_service?key=06"> Dredging, Sales and Supply of Sand.</a></li>
               <li><a href="./particular_service?key=01"> Training and Development.</a></li>
               <li><a href="particular_service?key=02">Building Construction and Maintenance.</a></li>
               <li><a href="./particular_service?key=04">Erosion Control Works.</a></li>
@@ -378,7 +379,7 @@
                     <div class="icon">
                       <i class="bi bi-gear-wide-connected"></i>
                     </div>
-                    <h4>Repair Services</h4>
+                    <h4>Marine Logistics</h4>
                 </a>
 
                 <a href="./our_services" class="s-card" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
@@ -392,7 +393,7 @@
                     <div class="icon">
                       <i class="bi bi-battery-charging"></i>
                     </div>
-                    <h4>Electrical</h4>
+                    <h4>Dredging </h4>
                 </a>
 
                 
@@ -418,18 +419,18 @@
             </div>
 
             <div class="e-card" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">
-                <h1>4</h1>
+                <h1>3</h1>
                 <p>Awards Won</p>
             </div>
 
             <div class="e-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
-                <h1>13+</h1>
+                <h1>10+</h1>
                 <p>Years in Business</p>
             </div>
         </div>
 
         <div class="experience-content">
-            <h1 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">13 years experience</h1>
+            <h1 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">10+ years experience</h1>
             <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">Our company has been leading, providing construction services to clients throughout Nigeria and beyond since 2010</p>
             <a href="contact_us" class="page-btn-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Contact Us</a>
         </div>
@@ -471,7 +472,7 @@
             <div class="subscribe-content row container">
                 <div>
                     <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Free Consultation with exceptional quality.</h2>
-                    <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Just one call away: <a href="tel:+234 803 749 2692">+234 803 749 2692</a></p>
+                    <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Just one call away: <a href="tel:+2348037492692">+234 803 749 2692</a></p>
                 </div>
                 <a href="contact_us" class="page-btn-2 active" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><i class="bi bi-whatsapp"></i> Consult Us</a>
             </div>
@@ -609,7 +610,7 @@
                   </div>
 
                  <center>
-                  <a href="our_projects" class="page-btn-2 view" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">View All</a>
+                  <a href="javascript:void(0)" class="page-btn-2 view" data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">View All</a>
                  </center>
                 </div>
               </div>
@@ -647,19 +648,19 @@
                           <li class="swiper-slide" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                               <div class="wrapper">
                                   <div class="thumbnail">
-                                      <img src="assets/images/founder.webp" alt="">
+                                      <img src="assets/images/earl.jpeg" alt="">
                                   </div>
                                   <div class="aside">
                                       <p>"....how pleased I am with the way our construction and renovation project went earlier this year. Everything from the start of the project through completion confirmed that we made the right choice when we selected. CJ Engineering as our general contractor.“</p>
                                       <div class="name">
-                                        <h4>Mrs. Cynthia M.</h4>
-                                        <p>Founder</p>
+                                        <h4>Earl B.</h4>
+                                        <p>STGEI IT</p>
                                       </div>
                                   </div>
                               </div>
                           </li>
   
-                          <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
+                          <!-- <li class="swiper-slide" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
                               <div class="wrapper">
                                   <div class="thumbnail">
                                       <img src="assets/images/founder.webp" alt="">
@@ -672,7 +673,7 @@
                                       </div>
                                   </div>
                               </div>
-                          </li>
+                          </li> -->
   
                           <!-- <li class="swiper-slide">
                               <div class="wrapper">
@@ -829,23 +830,24 @@
         <div class="container">
             <div class="contact-content">
                 <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">What can we do for you</h2>
-                <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">We are ready to work on project of any complexity, whether it's commercial or residential</p>
-                <form action="">
+                <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">We are ready to work on project of any complexity.</p>
+                <form action="" method="post">
                     <div class="form row">
-                        <input type="text" name="" id="" placeholder="Your Name" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
-                        <input type="email" name="" id="" placeholder="Email" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
-                        <select name="" id="" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000" title="Reason For Contacting">
+                        <input type="text" name="" id="" placeholder="Your Name" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000" required>
+                        <input type="email" name="" id="" placeholder="Email" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000" reguired>
+                        <select name="" id="" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000" title="Reason For Contacting" required>
                             <option value="" selected disabled>Reason For Contacting</option>
                             <option value="Construction">Construction</option>
                             <option value="Renovation">Renovation</option>
                             <option value="Consultation">Consultation</option>
-                            <option value="Repair Services">Repair Services</option>
+                            <option value="Dregging">Dregging</option>
                             <option value="Architecture">Architecture</option>
                             <option value="Logistics">Marine Logistics</option>
-                            <option value="Procerement">Procerement</option>
+                            <option value="Procurement">Procurement</option>
+                            <option value="Others">Others</option>
                         </select>
-                        <input type="text" name="" id="" placeholder="Phone" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">
-                        <textarea name="" id="" cols="30" rows="10" placeholder="Write in details..." data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"></textarea>
+                        <input type="number" name="" id="" placeholder="Phone" data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000" required>
+                        <textarea name="" id="" cols="30" rows="10" placeholder="Project details in brief..." data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"></textarea>
                     </div>
                     <div>
                       

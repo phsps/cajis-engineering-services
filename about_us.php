@@ -150,7 +150,7 @@
             <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Dredging</h2>
            <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">At Cajis Engineering Services, we are pioneers in the realm of dredging, redefining aquatic landscapes and navigating the waters of innovation and excellence. With an unwavering commitment to environmental sustainability, technological advancement, and unparalleled service, we stand as a beacon of expertise in the dredging industry.</p>
 
-           <a href="./ekco_dredging" class="page-btn-2" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Read More</a>
+           <a href="./particular_service?key=06" class="page-btn-2" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Read More</a>
            
             <!-- <a href="#" class="page-btn-2">Consult Now</a> -->
         </div>
@@ -167,7 +167,7 @@
                     <span data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">OUR STORY</span>
                     <h2 data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Since 2010, the company has grown from strength to strength, successfully executing and completing numerous high-profile jobs for public, corporate and private sector organizations.  The growth and successes of the company are attributable to the company’s formidable team and their vision to build edifices that are unquestionably safe, aesthetically appealing and endlessly functional.</h2>
                     <!-- <p>Just one call away: <a href="tel:+2347045189945">+2347045189945</a></p> -->
-                    <h4 data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">James Chadwick</h4>
+                    <h4 data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Philip E.</h4>
                 </div>  
             </div>
          </section>
@@ -200,7 +200,7 @@
                 <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Blut Logistics</h2>
                <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">At Cajis Engineering Services, a leading force in the maritime logistics industry. With a rich tapestry of experience, an unwavering commitment to efficiency, reliability, and innovation, we stand as a beacon of excellence in the realm of maritime transportation and logistics.</p>
     
-               <a href="./blut_logistics" class="page-btn-2" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Read More</a>
+               <a href="./particular_service?key=07" class="page-btn-2" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">Read More</a>
                
                 <!-- <a href="#" class="page-btn-2">Consult Now</a> -->
             </div>

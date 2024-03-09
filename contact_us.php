@@ -102,14 +102,7 @@
           </section>
 
 
-
-
-
-
-
-
-
-    <section class="reputation container section-padding">
+    <!-- <section class="reputation container section-padding">
         
         <div class="reputation-cards2 column">
             
@@ -149,9 +142,8 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
-    <!-----End Reputation------>
 
 
     <!-- map section starts  -->

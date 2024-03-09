@@ -46,19 +46,19 @@
                     </li>
 
                     <li class="nav_item">
-                        <a href="about_us" class="nav_link">About</a>
+                        <a href="about_us" class="nav_link">About Us</a>
                     </li>
 
                     <li class="nav_item">
-                        <a href="our_services" class="nav_link">Services</a>
+                        <a href="our_services" class="nav_link">Our Services</a>
                     </li>
 
                     <li class="nav_item">
-                        <a href="our_projects" class="nav_link">Projects</a>
+                        <a href="javascript:void(0)" class="nav_link">Projects</a>
                     </li>
 
                     <li class="nav_item">
-                        <a href="contact_us" class="nav_link">Contact</a>
+                        <a href="contact_us" class="nav_link">Contact Us</a>
                     </li>
                 </ul>
 

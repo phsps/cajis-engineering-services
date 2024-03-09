@@ -36,7 +36,7 @@
         <?php for($i = 1; $i < count($servicesList)+1; $i++ ):?>
 
             <div class="r-card" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
-                <h2>0<?=$i?></h2>
+            <h2>0<?=$i?></h2>
                 <h3><?=$servicesList["0".$i]['heading']?></h3>
                 <p><?=substr($servicesList["0".$i]['text'], 0, 200).' ...';?></p>
                 <a href="particular_service?key=<?="0".$i;?>">Details</a>
@@ -85,19 +85,19 @@
                      <div class="experience-rating column">
                         <div class="rate">
                             <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">99%</h2>
-                            <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Building Control Approval Rate</p>
+                            <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Approval Rate</p>
                         </div>
                         <div class="rate">
-                            <h2 data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">320+</h2>
-                            <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Active Projects in Construction Management</p>
+                            <h2 data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">5+</h2>
+                            <p data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Active Projects</p>
                         </div>
                         <div class="rate">
-                            <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">200+</h2>
+                            <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">10+</h2>
                             <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">Completed Projects Every Year</p>
                         </div>
                         <div class="rate">
-                            <h2 data-aos="zoom-in-down" data-aos-delay="100" data-aos-duration="1000">4.253</h2>
-                            <p data-aos="zoom-in-up" data-aos-delay="100" data-aos-duration="1000">Million euros Turnover in 2020</p>
+                            <h2 data-aos="zoom-in-down" data-aos-delay="100" data-aos-duration="1000">10</h2>
+                            <p data-aos="zoom-in-up" data-aos-delay="100" data-aos-duration="1000">years of steady growth</p>
                         </div>
                      </div>
 
@@ -121,12 +121,12 @@
 
             <div class="experience-content-3">
                 <span data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">WHAT WE DO</span>
-                 <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Trusted Quality for Over <span>20 Years</span></h2>
+                 <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">Trusted Quality for Over <span>10 Years</span></h2>
                 <!-- <p>Convallis a cras semper auctor neque vitae. Lectus proin nibh nisl condimentum fermentum odio eu. Augue neque gravida in fermentum et sollicitudin</p> -->
 
                  <div class="experience-rating3 column">
                     <div class="rate2">
-                        <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">100%</h2>
+                        <h2 data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000">99%</h2>
                         <p data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000">Efficiency</p>
                     </div>
                     <div class="rate2">

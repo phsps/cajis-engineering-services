@@ -43,7 +43,7 @@ $servicesList = [
 
     '03'=>[
         'name' => "Road Construction",
-        'text' => "Welcome to Cajis Road Construction & Maintenance, your trusted partner in paving the way to connectivity and progress. As a distinguished road construction firm, we specialize in transforming landscapes and connecting communities through the art and science of road infrastructure development. With a commitment to excellence, safety, and innovation, we stand as a beacon in the industry, dedicated to crafting roads that endure the test of time.<br>
+        'text' => "As a distinguished road firm, Cajis specialize in transforming landscapes and connecting communities through the art and science of road infrastructure development. With a commitment to excellence, safety, and innovation, we stand as a beacon in the industry, dedicated to crafting roads that endure the test of time.<br>
         We understand the behavior of road materials in relation to expected loads and deterioration mechanisms. We provide a comprehensive range of professional construction services across the globe.",
         'text2' => "At Cajis, our expertise encompasses the entire spectrum of road construction, from planning and design to execution and maintenance. Our seasoned team of engineers, project managers, and skilled workers collaborate seamlessly to deliver roads that not only facilitate smooth transportation but also contribute to the sustainable growth of regions and communities. We understand the vital role that well-constructed roads play in fostering economic development, and we take pride in being a catalyst for progress.",
         'text3' => "What defines Cajis is not just our proficiency in building roads but our commitment to understanding the unique needs of each project. Whether it's a highway, urban road, or rural byway, we approach every endeavor with precision, utilizing state-of-the-art technology and environmentally sustainable practices. Choose Cajis for road construction services that embody durability, efficiency, and a dedication to creating pathways that lead to a brighter future.",
@@ -67,7 +67,7 @@ $servicesList = [
         'name' => "Erosion Control",
         'text' => "Welcome to Cajis Erosion Control Works, a premier provider of comprehensive erosion control solutions dedicated to preserving the integrity of landscapes. With a steadfast commitment to environmental sustainability, we specialize in designing and implementing cutting-edge erosion prevention measures tailored to meet the unique needs of each project. Our team of seasoned professionals combines expertise with innovation, ensuring that our solutions not only mitigate erosion challenges but also contribute to the overall ecological health of the surrounding areas.",
         'text2' => "At Cajis Erosion Control Works, we understand the critical importance of erosion control in maintaining the stability of landscapes, preventing soil degradation, and safeguarding water quality. Our proven track record speaks to our unwavering dedication to delivering effective and sustainable erosion control measures across various industries, including construction, agriculture, and infrastructure development. From bioengineering techniques to the implementation of state-of-the-art erosion control products, we strive to exceed expectations and set the standard for excellence in the field.",
-        'text3' => "What sets Cajis Erosion Control Works apart is our holistic approach to erosion control, addressing the root causes of erosion while promoting environmental stewardship. We prioritize collaboration with clients, environmental agencies, and local communities to ensure our solutions align with regulatory requirements and community values. Choose [Company Name] for reliable, environmentally conscious erosion control services that not only protect landscapes today but also contribute to a more resilient and sustainable future.",
+        'text3' => "What sets Cajis Erosion Control Works apart is our holistic approach to erosion control, addressing the root causes of erosion while promoting environmental stewardship. We prioritize collaboration with clients, environmental agencies, and local communities to ensure our solutions align with regulatory requirements and community values. Choose Cajis for reliable, environmentally conscious erosion control services that not only protect landscapes today but also contribute to a more resilient and sustainable future.",
         'text4' => "",
         'page'=> "erosion_control_works",
 
@@ -76,11 +76,11 @@ $servicesList = [
         "hero_img_url" => "rory-mckeever-zwy0l1XBIaE-unsplash.jpg",
         "our_works_header" => "",
         "our_works_img1" => "ecw1.webp",
-        "our_works_caption1" => "Erosion Control",
+        "our_works_caption1" => "Erosion",
         "our_works_img2" => "ecw2.webp",
-        "our_works_caption2" => "Erosion Control",
+        "our_works_caption2" => "Erosion",
         "our_works_img3" => "ecw3.webp",
-        "our_works_caption3" => "Erosion Control"
+        "our_works_caption3" => "Erosion"
     ],
 
     '05'=>[

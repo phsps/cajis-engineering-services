@@ -19,10 +19,10 @@
             </h3>
             <ul>
               <li data-aos="fade-left" data-aos-delay="100" data-aos-duration="1000"><a href="about_us">About Us</a></li>
-              <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="our_projects">Projects</a></li>
+              <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000"><a href="javascript:void(0)">Projects</a></li>
               <li data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000"><a href="our_services">Our Services</a></li>
-              <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="ekco_dredging">EKCO Dredging</a></li>
-              <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="blut_logistics">Blut Logistics</a></li>
+              <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="./particular_service?key=06">EKCO Dredging</a></li>
+              <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="./particular_service?key=07">Blut Logistics</a></li>
               <li data-aos="fade-down" data-aos-delay="100" data-aos-duration="1000"><a href="particular_service?key=02">Building Constuction & Maintenance</a></li>
             </ul>
           </div>
@@ -34,7 +34,7 @@
             <ul>
               <li data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
                 <a href="https://www.google.com/maps/place/Cajis+Engineering+Services/@6.440922,3.4973028,17z/data=!3m1!4b1!4m6!3m5!1s0x6d402592c995b80f:0x39417bbfff3014f5!8m2!3d6.440922!4d3.4998777!16s%2Fg%2F11vl8nlz7g?entry=ttu">
-                <i class="bi bi-house-fill house"></i>C20 Nicon Town  Lekki, Lagos state 
+                <i class="bi bi-house-fill house"></i>C20 Nicon Town, Lekki, Lagos. 
                 </a>
               </li>
               <li data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
